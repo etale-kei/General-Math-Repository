@@ -72,7 +72,6 @@
   date: datetime.today().display("[month repr:long] [day], [year]"),
 )
 
-= Groups
 
 #question()[_*(Kollar)*_
   Compute the genus of the curve $x^3 = y^6+1$ 
