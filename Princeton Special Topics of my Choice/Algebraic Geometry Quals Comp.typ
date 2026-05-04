@@ -611,17 +611,35 @@ of F(n)) equal to the dimension of M_n for n >> 0?
   Study smooth curves of genus 0 (over a field that is not necessarily algebraically closed).
 ]
 
-#question()[*_(Kollar-2019)_*
-  
+#question()[*_(Sawin-$???$)_*
+  Write down a genus 25 curve. (Hyperelliptic $y^2=f(x)$ where f is degree 51 or 52)
 ]
 
-#question()[*_(Kollar-2019)_*
-  
+#question()[*_(Bhargava-$???$)_*
+  What happens if you treat hyperelliptic $y^2=f(x)$ where f is degree 51 or 52 as a plane curve? How would you resolve it?
 ]
 
-#question()[*_(Kollar-2019)_*
-  
+#question()[*_(Bhargava-$???$)_*
+  Is every genus g curve a plane curve? What if g is already a triangle number? Take a small g, What’s the dimension of $M_{g,n}$?
 ]
+
+#question()[*_(Bhargava-$???$)_*
+  Take g=3. Why are all genus 3 curves not plane curves?
+]
+
+#question()[*_(Sawin-$???$)_*
+  What does the degree-genus formula compute if it's not smooth?
+]
+
+#question()[*_(Sawin-$???$)_*
+  Say you have a curve C and a double curve 2C. You would expect the Euler characteristic of 2C to be double that of C, but this is not the case. Why?
+]
+
+#question()[*_(Sawin-$???$)_*
+  Compute the cohomology of the cotangent sheaf of P^n. Why is the canonical bundle O(-n-1)?
+]
+
+We stopped at MICHAEL MCBREEN ALGEBRAIC GEOMETRY QUALS
 
 #question()[*_(Kollar-2019)_*
   
@@ -646,3 +664,5 @@ Careful with Shonwu, pretty recent
 A lot of Harthstone references in Katz
 
 A lot of Hurwtiz formula
+
+A lot of Harthsone and Rising Sea
