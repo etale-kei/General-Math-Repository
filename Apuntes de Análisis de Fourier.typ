@@ -23,7 +23,7 @@
 #definicion()[
   Si $f$ es una función integrable dada en el intervalo $[a,b]$ de longitud $L$, entonces el *$n^"ésimo"$ coeficiente de Fourier* de $f$ es dado por:
 
-  $ accent(f,hat)(n) eq 1/L integral_(a)^b f(x) e^(-2pi i n x) slash L dif x, space space n in ZZ $
+  $ accent(f,hat)(n) eq 1/L integral_(a)^b f(x) e^(-2pi i n x slash L) dif x, space space n in ZZ $
 ]
 
 == Unicidad de la Serie de Fourier de una Función
